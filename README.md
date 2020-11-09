@@ -1,1 +1,1 @@
-# Text-Based-Depression-Detection
+# Capstone
