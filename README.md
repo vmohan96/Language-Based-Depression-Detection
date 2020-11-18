@@ -1,4 +1,4 @@
-# Detecting Depression From Text Using Machine Learning
+# Detecting Depression From Language Using Machine Learning
 Depression, often classified as major depressive disorder (MDD) is a psychological mood disorder characterized by excessive sadness, loss of interest in normal activities, as well as a number of additional symptoms that can directly and negatively affect a patient’s normal life. Depression is the most common of the mood disorders; as well as the leading cause of suicide worldwide. It affects tens of millions of people nationwide, and in the hundreds of millions across the world. 
 
 While depression has been a widespread issue for a long time, there is no doubt that the recent COVID-19 pandemic has also led to a marked increase in rates of diagnosis. Studies have shown a 300% increase in symptom prevalence over 2019, and both depression and suicidal ideation among youth is at an all-time high. 
