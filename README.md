@@ -63,3 +63,9 @@ After gaining an understanding of how each of the two models implemented perform
 One potential use case for this model and the more user-friendly application is as a complement for psychiatric therapy methods. Patients suffering from mood disorders like depression may visit a therapist once a week or less, and it is important to keep track of emotional state much more often than that. While mood tracking applications exist, the vast majority involve a direct input by the user indicating their mood on an arbitrary numerical scale. With an application like the one I built, patients could simply talk/record themselves on the platform in the same way they might talk to their therapist. The model would provide standardized predictions based on a standardized language model, which could potentially be more empirically useful for diagnostic methods.
 
 On another note, a publicly available application that utilized this language model on the backend could allow for all its users to generate predictions based on their journal entries at any time, and also keep a mood tracker for themselves. With the proper permissions and consent (as well as a clear opt-out option for all users), this data could be anonymously collected and used to analyze depression on a more holistic scale, breaking it down by demographic or any other factors relevant to the analyzer, for potential public health applications.
+
+
+## 7. References
+- [The Distress Analysis Interview Corpus](https://dcapswoz.ict.usc.edu/)
+- [The Distress Analysis Interview Corpus of human and computer interviews](http://www.lrec-conf.org/proceedings/lrec2014/pdf/508_Paper.pdf)
+- [Text-based depression detection on sparse data](https://arxiv.org/pdf/1904.05154.pdf)
